@@ -1,2 +1,2 @@
-<h1>This is my personal portfolio 💯❤️</h1>
-<h2>Will be updating it as time goes by</h2>
+<h3>This is my personal portfolio 💯❤️</h3>
+<h4>This is a reference that can be used by other developers to crete there's</h4>
