@@ -49,9 +49,9 @@
     --mb-3: 3rem;
 
     /* index */
-    --z-tooltip: ;
-    --z-fixed: ;
-    --z-modal: ;
+    --z-tooltip: 10;
+    --z-fixed: 100;
+    --z-modal: 1000;
 
 
 
