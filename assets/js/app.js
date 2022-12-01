@@ -34,3 +34,5 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 
 
 // qualification tabs
+
+//Closing soon 
