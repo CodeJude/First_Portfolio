@@ -31,7 +31,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 
 
 // accordion skills
-
+//app.js
 
 // qualification tabs
 
